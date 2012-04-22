@@ -175,7 +175,6 @@ public static function flexo_slider_option() {
 <?php
 						if ($_POST['gen_change']){
 							$gen = stripslashes($_POST['code_change']);
-							//echo $gen; 
 																		$ret 			=	"";
 																		$pattern	=	"[flexoslider ";
 																		
